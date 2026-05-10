@@ -6,7 +6,7 @@ An interactive **Power BI dashboard** designed to analyze corporate hiring trend
 
 ## 🚀 Project Overview
 
-![Overview](video/Customer Insights Demo.mp4)
+![Overview](video/customer-insights-demo.mp4)
 
 The dashboard provides insights into:
 - Company distribution across states
@@ -94,10 +94,10 @@ Corporate-Hiring-PowerBI/
 │
 ├── README.md
 ├── dataset/
-│   └── corporate_data.xlsx
+│   └── corporate-data.xlsx
 │
 ├── pdf/
-│    └── corporate insights.pdf
+│    └── corporate-insights.pdf
 │
 ├── screenshots/
 │   ├── home-dashboard.png
@@ -106,7 +106,7 @@ Corporate-Hiring-PowerBI/
 │   └── hiring-overview.png
 │
 └── video/
-    └── corporate insights demo.mp4
+    └── corporate-insights-demo.mp4
 ```
 ---
 
