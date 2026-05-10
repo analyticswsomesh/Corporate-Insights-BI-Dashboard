@@ -6,7 +6,7 @@ An interactive **Power BI dashboard** designed to analyze corporate hiring trend
 
 ## 🚀 Project Overview
 
-https://github.com/user-attachments/assets/YOUR-VIDEO-LINK
+![Overview](video/Customer Insights Demo.mp4)
 
 The dashboard provides insights into:
 - Company distribution across states
@@ -20,7 +20,7 @@ The dashboard provides insights into:
 
 ## 🏠 Home Dashboard
 
-![Home Dashboard](screenshots/home-dashboard.png)
+![Home Dashboard](screenshots/home-dashboard.jpg)
 
 Provides a high-level overview of:
 - Total Companies
@@ -32,7 +32,7 @@ Provides a high-level overview of:
 
 ## 🏢 Company Overview
 
-![Company Overview](screenshots/company-overview.png)
+![Company Overview](screenshots/company-overview.jpg)
 
 Analyzes company-level insights including:
 - Headquarters locations
@@ -44,7 +44,7 @@ Analyzes company-level insights including:
 
 ## 👨‍💼 Workforce Analytics
 
-![Employee Overview](screenshots/employee-overview.png)
+![Employee Overview](screenshots/employee-overview.jpg)
 
 Provides employee-related analytics such as:
 - Role segmentation
@@ -56,7 +56,7 @@ Provides employee-related analytics such as:
 
 ## 📈 Recruitment Analytics
  
-![Hiring Overview](screenshots/hiring-overview.png)
+![Hiring Overview](screenshots/hiring-overview.jpg)
 
 Tracks company hiring activity including:
 - Active hiring status
@@ -93,16 +93,20 @@ Tracks company hiring activity including:
 Corporate-Hiring-PowerBI/
 │
 ├── README.md
+├── dataset/
+│   └── corporate_data.xlsx
+│
+├── pdf/
+│    └── corporate insights.pdf
+│
 ├── screenshots/
 │   ├── home-dashboard.png
 │   ├── company-overview.png
 │   ├── employee-overview.png
 │   └── hiring-overview.png
 │
-├── video/
-│   └── project-demo.mp4
-│
-└── dataset/
+└── video/
+    └── corporate insights demo.mp4
 ```
 ---
 
